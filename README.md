@@ -23,11 +23,9 @@ Because why not?
 Open a terminal and run:
 
 ```bash
-git clone https://github.com/yourusername/meowshell.git
+git clone https://github.com/aditi-pai04/Meowshell.git
 cd meowshell
 ```
-
-> Replace the URL with your actual GitHub repository URL.
 
 ---
 
